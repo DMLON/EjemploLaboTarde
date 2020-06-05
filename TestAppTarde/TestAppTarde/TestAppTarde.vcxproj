@@ -147,7 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cPersona.cpp" />
     <ClCompile Include="TestAppTarde.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cPersona.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
