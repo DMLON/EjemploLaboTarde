@@ -7,7 +7,6 @@ using namespace std;
 int main()
 {
     cout << "Hello World!\n";
-    cout << "hola";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
