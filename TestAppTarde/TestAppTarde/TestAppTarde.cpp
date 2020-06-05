@@ -8,6 +8,13 @@ int main()
 {
     cout << "Hello World!\n";
     cout << "hola";
+    string banana = "platano";
+    cout << suma(5, 5) << banana << endl;
+
+}
+
+int suma(int a, int b) {
+    return a + b;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
